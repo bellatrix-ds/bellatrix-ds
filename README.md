@@ -3,7 +3,7 @@
 
 ## 🛠 Featured Projects
 
-- 📊 **DeFi TVL Forecasting Model**
+- 📊 **DeFi TVL Forecasting Model (Ethereum)**
   <br> ARIMA & XGBoost models predicting TVL across multiple chains and protocols. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/01.%20DeFi%20TVL%20Forecasting%20Model%20)
 
 - 🔍 **Smart Contract Usage Clustering**  
