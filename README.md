@@ -3,8 +3,8 @@
 
 ## 🛠 Featured Projects
 
-- 📊 **DeFi TVL Forecasting Model (Ethereum)**
-  <br> ARIMA & XGBoost models predicting TVL across multiple chains and protocols. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/01.%20DeFi%20TVL%20Forecasting%20Model%20)
+- 📊 **DeFi TVL Forecasting Model with Deep Learning**
+  <br>  LSTM-based neural network model for predicting future Total Value Locked (TVL) in Aave, using historical DeFi data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
 
 - 🔍 **Smart Contract Usage Clustering**  
   Clustering EVM contract users based on interaction patterns and transaction frequency.
