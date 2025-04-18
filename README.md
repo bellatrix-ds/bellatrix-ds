@@ -4,7 +4,7 @@
 ## 🛠 Featured Projects
 
 - 📊 **DeFi TVL Forecasting Model with Deep Learning**
-  <br>  LSTM-based neural network model for predicting future Total Value Locked (TVL) in Aave, using historical DeFi data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
+  <br>  LSTM-based neural network model for predicting future Total Value Locked in Aave, using historical data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
 
 - 🔍 **Smart Contract Usage Clustering**  
   Clustering EVM contract users based on interaction patterns and transaction frequency.
