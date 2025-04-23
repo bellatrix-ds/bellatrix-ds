@@ -7,7 +7,8 @@
   <br>  LSTM-based neural network model for predicting future Total Value Locked in Aave, using historical data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
 
 - 🔍 **Smart Contract Usage Clustering**  
-  Clustering EVM contract users based on interaction patterns and transaction frequency.
+  Clustering EVM contract users based on interaction patterns and transaction frequency. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/ 03_Smart_Contract_Usage_Clustering)
+  
 
 - 🧠 **LSTM-based Price Prediction**  
   Predicting crypto asset prices using TensorFlow and real-time OHLCV data.
