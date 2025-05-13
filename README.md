@@ -6,7 +6,7 @@
 - 📊 **DeFi TVL Forecasting Model with Deep Learning**
   <br>  LSTM-based neural network model for predicting future Total Value Locked in Aave, using historical data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
 
-  - 🔍 **ETH Wallet Insights & Patterns**
+- 🔍 **ETH Wallet Insights & Patterns**
 <br> A Streamlit dashboard for exploring Ethereum wallet behaviors, balances, and top contract interactions over time using on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)  [📈 View Streamlit Dashboard](https://walletcanvasdashboard.streamlit.app/)
 
 - 🔍 **Smart Contract Usage Clustering**  
