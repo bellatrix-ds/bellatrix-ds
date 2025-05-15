@@ -9,12 +9,13 @@
 <br>
 
 - 🔍 **ETH Wallet Insights & Patterns**
-<br> A Streamlit dashboard for exploring Ethereum wallet behaviors, balances, and top contract interactions over time using on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)  [📈 View Streamlit Dashboard](https://walletcanvasdashboard.streamlit.app/)
+<br> A Streamlit dashboard for exploring Ethereum wallet behaviors, balances, and top contract interactions over time using on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)
+ <br> [📈 View Streamlit Dashboard](https://walletcanvasdashboard.streamlit.app/)
 
 <br>
 
 - 🧠 **On-Chain Wallet Behavior Classifier**  
-   A machine learning-powered Streamlit dashboard for classifying Ethereum wallet types (e.g. user, bot, service) based on behavioral features. Built using unsupervised clustering techniques on on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier)  [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
+   A machine learning-powered Streamlit dashboard for classifying Ethereum wallet types (e.g. user, bot, service) based on behavioral features. Built using unsupervised clustering techniques on on-chain data.<br> [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier) <br> [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
 
 <br>
 
