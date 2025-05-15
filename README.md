@@ -9,8 +9,8 @@
 - 🔍 **ETH Wallet Insights & Patterns**
 <br> A Streamlit dashboard for exploring Ethereum wallet behaviors, balances, and top contract interactions over time using on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)  [📈 View Streamlit Dashboard](https://walletcanvasdashboard.streamlit.app/)
 
-- 🔍 **Smart Contract Usage Clustering**  
-  Clustering EVM contract users based on interaction patterns and transaction frequency. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Smart_Contract_Usage_Clustering)
+- 🧠 **On-Chain Wallet Behavior Classifier**  
+  <br> A machine learning-powered Streamlit dashboard for classifying Ethereum wallet types (e.g. user, bot, service) based on behavioral features such as transaction timing, value distribution, and contract interaction frequency. Built using unsupervised clustering techniques on on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier)  [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
   
 
 - 🧠 **LSTM-based Price Prediction**  
