@@ -6,15 +6,17 @@
 - 📊 **DeFi TVL Forecasting Model with Deep Learning**
   <br>  LSTM-based neural network model for predicting future Total Value Locked in Aave, using historical data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
 
+<br>
+
 - 🔍 **ETH Wallet Insights & Patterns**
 <br> A Streamlit dashboard for exploring Ethereum wallet behaviors, balances, and top contract interactions over time using on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)  [📈 View Streamlit Dashboard](https://walletcanvasdashboard.streamlit.app/)
 
-- 🧠 **On-Chain Wallet Behavior Classifier**  
-  <br> A machine learning-powered Streamlit dashboard for classifying Ethereum wallet types (e.g. user, bot, service) based on behavioral features such as transaction timing, value distribution, and contract interaction frequency. Built using unsupervised clustering techniques on on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier)  [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
-  
+<br>
 
-- 🧠 **LSTM-based Price Prediction**  
-  Predicting crypto asset prices using TensorFlow and real-time OHLCV data.
+- 🧠 **On-Chain Wallet Behavior Classifier**  
+   A machine learning-powered Streamlit dashboard for classifying Ethereum wallet types (e.g. user, bot, service) based on behavioral features. Built using unsupervised clustering techniques on on-chain data. [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier)  [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
+
+<br>
 
 - 📉 **On-Chain Alert System**  
   Detecting abnormal behavior in DAO treasuries and whale movements using anomaly detection.
