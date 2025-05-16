@@ -9,7 +9,7 @@
 <br>
 
 - 🔍 **ETH Wallet Insights & Patterns**
-<br> Ever wondered what your wallet really does on-chain? 👀 This dashboard uncovers patterns in Ethereum wallet activity — from balance movements to contract interactions — all visualized over time. <br> 👉 See the Code [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)
+<br> Ever wondered what your wallet really does on-chain? 👀 This dashboard uncovers patterns in Ethereum wallet activity — from balance movements to contract interactions; all visualized over time. <br> 👉 See the Code [🔗 View Project](https://github.com/bellatrix-ds/blockchain-dashboards-and-visualizations/tree/main/03_Wallet_Canvas)
  <br> 👉 Launch the Dashboard [📈 View Streamlit Dashboard](https://walletcanvasdashboard.streamlit.app/)
 
 <br>
