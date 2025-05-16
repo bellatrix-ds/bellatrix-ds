@@ -17,7 +17,7 @@
 - 🧠 **Chain Detective: Who’s Behind This Wallet?**  
    Think you know that wallet? Think again. 😏
 <br> This ML-powered dashboard digs into transaction behavior to reveal wallet types—human, bot, protocol? Find out with one click.
-  <br> 👉 check out the code, model, and ML pipeline on GitHub 👉 [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier) <br> 👉 Try the wallet profiler live 👉 [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
+  <br> 👉 check out the code, model, and ML pipeline on GitHub [🔗 View Project](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/03_Wallet_Identity_Classifier) <br> 👉 Try the wallet profiler live [📊 View Streamlit Dashboard](https://onchainwalletprofiler.streamlit.app/)
 
 <br>
 
