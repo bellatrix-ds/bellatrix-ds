@@ -33,7 +33,7 @@
 
 Feel free to reach out to me about **Blockchain Analytics**, **Time Series Modeling**, **Crypto Research**, and **Machine Learning Applications in Web3** 👇
 
-💬 Connect with me on [LinkedIn](www.linkedin.com/in/bellabahrami) or through [Email](bellabahramii@gmail.com) 
+💬 Connect with me on [LinkedIn](www.linkedin.com/in/bellabahrami) or through [Email](https://mail.google.com/bellabahramii@gmail.com) 
 📝 Follow my data science and blockchain blog on [Medium](https://medium.com/@bellabahramii)
 📊 Explore my dashboards on [Streamlit](https://share.streamlit.io/user/bellatrix-ds)  
 
