@@ -32,6 +32,8 @@
 
 
 - ["8 Best Practices for Cleaning Web3 Time-Series Data"](https://medium.com/@bellabahramii/8-best-practices-for-cleaning-web3-time-series-data-2f51f901d428)
+- ["The Real Role of Stablecoins: Not Just Digital Dollars"](https://medium.com/@bellabahramii/the-real-role-of-stablecoins-not-just-digital-dollars-94fd5aaa5cf6)
+- ["Faster Blocks, Same Problems? Unpacking Solana’s Battle with MEV"](https://medium.com/@bellabahramii/faster-blocks-same-problems-unpacking-solanas-battle-with-mev-21b95039246f)
 
 
 
