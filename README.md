@@ -30,10 +30,9 @@
 
   ## ✍️ Latest Writings
 
-- ["How I Use Machine Learning to Understand On-Chain Behavior"](#)
+
 - ["8 Best Practices for Cleaning Web3 Time-Series Data"](https://medium.com/@bellabahramii/8-best-practices-for-cleaning-web3-time-series-data-2f51f901d428)
-- ["Best Practices for Cleaning Web3 Time-Series Data"](#)
-- ["My Favorite Dune Queries for Real-Time DAO Monitoring"](#)
+
 
 
 Feel free to reach out to me about **Blockchain Analytics**, **Time Series Modeling**, **Crypto Research**, and **Machine Learning Applications in Web3** 👇
