@@ -21,12 +21,6 @@
 
 <br>
 
-- 📉 **On-Chain Alert System**  
-  Detecting abnormal behavior in DAO treasuries and whale movements using anomaly detection.
-
-- 📎 **Dune Dashboards Collection**  
-  Query & visualization hub for DeFi/NFT metrics
-
 
   ## ✍️ Latest Writings
 
@@ -39,7 +33,7 @@
 
 Feel free to reach out to me about **Blockchain Analytics**, **Time Series Modeling**, **Crypto Research**, and **Machine Learning Applications in Web3** 👇
 
-💬 Connect with me on [LinkedIn](www.linkedin.com/in/bellabahrami)  
-📝 Follow my data science and blockchain blog on [Medium]
-📊 Explore my dashboards and Dune queries [here](https://dune.com/bella25)  
+💬 Connect with me on [LinkedIn](www.linkedin.com/in/bellabahrami) or through [Email](bellabahramii@gmail.com) 
+📝 Follow my data science and blockchain blog on [Medium](https://medium.com/@bellabahramii)
+📊 Explore my dashboards on [Streamlit](https://share.streamlit.io/user/bellatrix-ds)  
 
