@@ -4,7 +4,7 @@
 ## 🛠 Featured Projects
 
 - 🚀 **AI‑Powered DeFi Liquidity Dashboard**
-  <br>  Ever wished you had an on-chain analyst by your side? 🧠 This AI-powered dashboard analyzes raw Ethereum lending data to surface smart insights on liquidity trends, risks, and usage patterns.
+  <br>  Ever wished you had an on-chain analyst by your side? This AI-powered dashboard analyzes raw lending data to surface smart insights on liquidity trends, risks, and usage patterns.
   <br>  Perfect for researchers, protocol teams, and market makers looking to monitor behavior and anticipate scenarios in lending pools.
   <br>  👉 See the Code 🧩 [View Project](https://github.com/bellatrix-ds/onchain-analytics/tree/main/03_DeFi_Liquidit_Intelligence)
   <br>  👉 Launch the Dashboard 🤖 [View Streamlit App](https://defi-liquidity-intelligence.streamlit.app/)
