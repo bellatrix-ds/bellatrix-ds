@@ -8,7 +8,6 @@
   <br>  👉 See the Code 🧩 [View Project](https://github.com/bellatrix-ds/onchain-analytics/tree/main/03_DeFi_Liquidit_Intelligence)
   <br>  👉 Launch the Dashboard 🤖 [View Streamlit App](https://defi-liquidity-intelligence.streamlit.app/)
 
-
 <br>
 
 - 💹 **Market Making Intelligence Dashboard**
@@ -16,7 +15,7 @@
   <br>  👉 See the Code 🧠 [View Project](https://github.com/bellatrix-ds/onchain-analytics/tree/main/01_Market_Making)
   <br>  👉 Launch the Dashboard 📊 [View Streamlit App](https://marketmakingboard.streamlit.app/)
 
-  
+<br>
 
 - 📊 **DeFi TVL Forecasting Model with Deep Learning**
   <br>  LSTM-based neural network model for predicting future Total Value Locked in Aave, using historical data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
