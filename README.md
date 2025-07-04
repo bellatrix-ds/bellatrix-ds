@@ -11,6 +11,13 @@
 
 <br>
 
+- 💹 **Market Making Intelligence Dashboard**
+  <br>  Struggling to track every opportunity across liquidity pools? This AI-driven dashboard scans raw DEX data to detect trading opportunities, rank pools based on your strategy, and answer your custom questions through an integrated AI agent. Ideal for market makers seeking smart prioritization and real-time decision support.
+  <br>  👉 See the Code 🧠 [View Project](https://github.com/bellatrix-ds/onchain-analytics/tree/main/01_Market_Making)
+  <br>  👉 Launch the Dashboard 📊 [View Streamlit App](https://marketmakingboard.streamlit.app/)
+
+  
+
 - 📊 **DeFi TVL Forecasting Model with Deep Learning**
   <br>  LSTM-based neural network model for predicting future Total Value Locked in Aave, using historical data on Ethereum. [Link](https://github.com/bellatrix-ds/ml-in-crypto/tree/main/02_DeFi_TVL_Forecaster_Aave_Ethereum)
 
